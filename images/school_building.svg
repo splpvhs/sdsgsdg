@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#f0f9ff"/>
+  <rect x="50" y="120" width="300" height="150" fill="#0284c7" rx="8"/>
+  <polygon points="200,40 30,120 370,120" fill="#0369a1"/>
+  <rect x="170" y="190" width="60" height="80" fill="#f8fafc" rx="4"/>
+  <rect x="80" y="150" width="50" height="40" fill="#bae6fd" rx="4"/>
+  <rect x="270" y="150" width="50" height="40" fill="#bae6fd" rx="4"/>
+  <text x="200" y="105" font-family="sans-serif" font-weight="bold" font-size="18" fill="#ffffff" text-anchor="middle">المدرسة الابتدائية</text>
+</svg>
